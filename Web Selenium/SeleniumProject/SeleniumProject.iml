@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-api-4.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-chrome-driver-4.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-chromium-driver-4.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-devtools-v85-4.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-devtools-v100-4.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-devtools-v101-4.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-devtools-v102-4.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-edge-driver-4.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-firefox-driver-4.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-http-4.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-ie-driver-4.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-java-4.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-json-4.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-opera-driver-4.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-remote-driver-4.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-safari-driver-4.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-support-4.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-api-4.2.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-chrome-driver-4.2.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-chromium-driver-4.2.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-devtools-v85-4.2.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-devtools-v100-4.2.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-devtools-v101-4.2.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-devtools-v102-4.2.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-edge-driver-4.2.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-firefox-driver-4.2.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-http-4.2.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-ie-driver-4.2.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-json-4.2.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-opera-driver-4.2.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-remote-driver-4.2.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-safari-driver-4.2.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jars and drivers/selenium-support-4.2.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

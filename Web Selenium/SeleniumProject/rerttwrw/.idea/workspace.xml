@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c321c603-7d27-4211-a52d-7380e8ab7cc3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/AutomationTesting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/Array2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/Branching1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/Branching2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/Branching3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/Branching4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/Constructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/ControlFlowStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/ControlFlowStatement2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/ControlFlowStatement3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/GroupingCases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/day6/ChildClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/day6/ClassMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/day6/Constructors2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/day6/SmallerChildClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/day6/SuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/day7/AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/day7/AbstractClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/day7/InterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/day7/InterClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Demo_Automation/Demo_Automation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Project1/src/Selenium1/HandlingFrames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Project1/src/Selenium1/HandlingWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Project1/src/Selenium1/ScreenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Project1/src/Selenium2/CheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Project1/src/Selenium2/RadioButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Project1/src/Selenium2/SelectClassMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Project1/src/Selenium3/ExceptionClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Project1/src/Selenium3/Locators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Project1/src/Selenium3/Locators2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/app/components/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/app/components/Greet.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/app/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/assets/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/Greet.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/SeleniumDay1/ExceptionClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/SeleniumDay1/Locators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/SeleniumDay1/Locators2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/SeleniumDay2/Checkbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/SeleniumDay2/RadioButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/SeleniumDay2/SelectClassMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/SeleniumDay3/HandlingFrames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/SeleniumDay3/HandlingWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/SeleniumDay3/ScreenshotTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Selenium_Training/src/Test7/HandlingFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jars and drivers/WebDriver_besic/WebDriver_besic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jars and drivers/selenium-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jars and driversw/WebDriver_besic/WebDriver_besic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m/src/test/java/testngClass/LoginScreenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/untitled.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2OsTz14hDfGgBDEmOx33HryMqbL" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c321c603-7d27-4211-a52d-7380e8ab7cc3" name="Changes" comment="" />
+      <created>1682348548609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682348548609</updated>
+    </task>
+    <servers />
+  </component>
+</project>

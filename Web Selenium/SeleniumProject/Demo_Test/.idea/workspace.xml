@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50f4e461-8b5c-4778-b31a-6afd1ac803f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/Web Selenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/AutomationTesting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/Array2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/Branching1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/Branching2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/Branching3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/Branching4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/Constructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/ControlFlowStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/ControlFlowStatement2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/ControlFlowStatement3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/GroupingCases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/day6/ChildClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/day6/ClassMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/day6/Constructors2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/day6/SmallerChildClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/day6/SuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/day7/AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/day7/AbstractClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/day7/InterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AutomationTesting/src/day7/InterClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Demo_Automation/Demo_Automation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation1/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation1/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation1/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation1/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation1/src/test/java/testngClass/DependOnMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation1/src/test/java/testngClass/GoogleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation1/src/test/java/testngClass/PriorityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation1/src/test/java/testngClass/Test_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation1/src/test/java/testngClass/Test_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation1/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Project1/Demo_Project1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Project1/src/Selenium1/HandlingFrames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Project1/src/Selenium1/HandlingWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Project1/src/Selenium1/ScreenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Project1/src/Selenium2/CheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Project1/src/Selenium2/RadioButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Project1/src/Selenium2/SelectClassMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Project1/src/Selenium3/ExceptionClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Project1/src/Selenium3/Locators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Project1/src/Selenium3/Locators2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/src/test/java/page/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/app/components/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/app/components/Greet.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/app/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/assets/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/src/site/apt/examples/example.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/src/site/apt/index.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/src/site/apt/usage.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/src/site/site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rerttwrw/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rerttwrw/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rerttwrw/app/components/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rerttwrw/app/components/Greet.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rerttwrw/app/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rerttwrw/assets/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rerttwrw/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rerttwrw/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rerttwrw/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rrqf/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rrqf/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rrqf/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rrqf/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rrqf/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rrqf/manifest.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rrqf/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rrqf/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rrqf/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rrqf/rrqf-backend/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rrqf/rrqf-backend/src/main/java/com/test/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rrqf/rrqf-backend/src/main/java/com/test/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rrqf/rrqf-backend/src/main/java/com/test/GreetingHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rrqf/rrqf-backend/src/main/java/com/test/WelcomeHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rrqf/rrqf-backend/src/main/resources/application-default.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rrqf/rrqf-backend/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rrqf/rrqf-backend/src/test/java/com/test/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rrqf/rrqf-backend/src/test/java/com/test/GreetingControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rrqf/rrqf-backend/src/test/resources/junit-platform.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rrqf/rrqf-frontend/elm.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rrqf/rrqf-frontend/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rrqf/rrqf-frontend/src/Main.elm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/SeleniumDay1/ExceptionClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/SeleniumDay1/Locators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/SeleniumDay1/Locators2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/SeleniumDay2/Checkbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/SeleniumDay2/RadioButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/SeleniumDay2/SelectClassMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/SeleniumDay3/HandlingFrames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/SeleniumDay3/HandlingWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/SeleniumDay3/ScreenshotTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Selenium_Training/Selenium_Training.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Selenium_Training/src/Test7/HandlingFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jars and drivers/WebDriver_besic/WebDriver_besic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jars and drivers/selenium-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jars and driversw/WebDriver_besic/WebDriver_besic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m/src/test/java/testngClass/LoginScreenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/untitled.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2OsWnAOdMoUtGFWdHDOQ6XrBs0x" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.runner&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Demo_Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Demo_Test" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50f4e461-8b5c-4778-b31a-6afd1ac803f7" name="Changes" comment="" />
+      <created>1682349933947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682349933947</updated>
+    </task>
+    <servers />
+  </component>
+</project>

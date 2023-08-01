@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testing-1.0.dtd">
+         <suite name ="TestNG Learning">
+     <listeners>
+         <listener class-name="ErrorCollectors.TestListenerAdapter"/>
+     </listeners>
+     <test name="Test_1">
+         <classes>
+                <class name="testngClass.Test_1"></class>
+         </classes>
+     </test>
+
+     <test name="Test_2">
+          <classes>
+             <class name="testngClass.Test_2"></class>
+          </classes>
+
+    </test>
+
+ </suite>
